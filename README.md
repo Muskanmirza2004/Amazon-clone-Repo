@@ -10,7 +10,7 @@ This project replicates the layout and design of the original Amazon homepage to
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the live site]( https://muskanmirza2004.github.io/Amazon-clone-Repo/)  
+🔗 [Click here to view the live site](https://muskanmirza2004.github.io/Amazon-clone-Repo/)  
 *(Hosted using GitHub Pages)*
 
 --
